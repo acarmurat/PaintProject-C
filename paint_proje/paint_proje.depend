@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1480251537 source:c:\users\murat acar\documents\c projeleri\paint_proje\main.cpp
+	<stdio.h>
+	<graphics.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<math.h>
+	<winbgim.h>
+
